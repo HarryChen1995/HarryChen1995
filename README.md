@@ -1,4 +1,4 @@
-# 👨🏻‍💻  Hi, I’m @HarryChen1995 (iOS Development 📱 & Machine Learning 🤖 )
+# 👨🏻‍💻  Hi, I’m @HarryChen1995 (Python & Generative AI 🤖 )
 
 <!---
 HarryChen1995/HarryChen1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
